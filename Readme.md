@@ -1,11 +1,12 @@
-# íº€ Index Launchpad C++ & DSA
+# CPP-with-DSA
+# ðŸš€ Index Launchpad C++ & DSA
 
 This repository follows the **Index Launchpad C++ and DSA (Pitampura Batch)** curriculum.  
 It covers C++ fundamentals, problem-solving, data structures, algorithms, and advanced topics like Dynamic Programming and Graphs.
 
 ---
 
-## í³š Lecture Wise Course Index
+## ðŸ“š Lecture Wise Course Index
 
 | Lecture | Topics Covered |
 |--------|----------------|
@@ -42,7 +43,7 @@ It covers C++ fundamentals, problem-solving, data structures, algorithms, and ad
 
 ---
 
-## í»  Technologies Used
+## ðŸ›  Technologies Used
 
 - C++
 - STL
@@ -50,7 +51,7 @@ It covers C++ fundamentals, problem-solving, data structures, algorithms, and ad
 
 ---
 
-## í¾¯ Learning Goals
+## ðŸŽ¯ Learning Goals
 
 - Strong Problem Solving
 - Core Data Structures
@@ -61,11 +62,10 @@ It covers C++ fundamentals, problem-solving, data structures, algorithms, and ad
 
 ---
 
-## í³Œ Reference
+## ðŸ“Œ Reference
 
 Index Launchpad C++ and DSA (Pitampura Batch)
 
 ---
 
-Happy Coding í²»í´¥
-
+Happy Coding ðŸ’»ðŸ”¥
